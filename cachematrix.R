@@ -1,7 +1,7 @@
 ## name: cachematrix.R
 ## developer: john zekind (github.com/riajz)
 ## date: 2016-03-04
-## desc: R Programming Week 3 (Assignment 2)
+## desc: R Programming Week 3 ( Assignment 2 )
 ## 
 ## 
 ## makeCacheMatrix - creates a cache of a provided matrix and its inverse
